@@ -1,5 +1,0 @@
-C:\Documents and Settings\shalsey\My Documents\Visual Studio 2005\Projects\Wiki Config\Wiki Config\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\shalsey\My Documents\Visual Studio 2005\Projects\Wiki Config\Wiki Config\bin\Debug\WikiConfig.dll
-C:\Documents and Settings\shalsey\My Documents\Visual Studio 2005\Projects\Wiki Config\Wiki Config\bin\Debug\WikiConfig.pdb
-C:\Documents and Settings\shalsey\My Documents\Visual Studio 2005\Projects\Wiki Config\Wiki Config\obj\Debug\WikiConfig.dll
-C:\Documents and Settings\shalsey\My Documents\Visual Studio 2005\Projects\Wiki Config\Wiki Config\obj\Debug\WikiConfig.pdb
